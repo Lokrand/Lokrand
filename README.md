@@ -13,6 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
           
+	  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?lokrand=vn7n24fzkq&theme=github_dark)
 ### My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?lokrand=vn7n24fzkq&theme=github_dark"/>
