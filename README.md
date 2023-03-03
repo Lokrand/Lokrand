@@ -1,6 +1,7 @@
-## Hi there, I'm Dima👋
-
-I'm junior frontend developer.
+<div id="header" align="center">
+    <h1>Hi there, I'm  Dima </h1>
+    <h3>Junior Frontend Developer from Saint Petersburg</h3>
+</div>
 
 ### A few facts about me:
 1. I love to play basketball;
