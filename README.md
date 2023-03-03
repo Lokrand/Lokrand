@@ -1,7 +1,7 @@
 ### Hi there, I'm Dima👋
 
 
-**Lokrand/Lokrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm junior frontend developer.
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
