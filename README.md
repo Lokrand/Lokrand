@@ -14,9 +14,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokrand&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokrand)](https://git.io/streak-stats)
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?lokrand=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?lokrand=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?lokrand=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokrand&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokrand&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrand&theme=github_dark"/>
 </div>
