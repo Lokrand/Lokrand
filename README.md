@@ -5,7 +5,7 @@
 ### A few facts about me:
 1. I love to play basketball;
 2. I sing songs with guitar;
-3. I have a cat;
+3. I have a cat :cat: ;
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
