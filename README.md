@@ -1,11 +1,11 @@
-## Hi there, I'm  Dima 
+## Hi there, I'm  Dima :wave:
 
-### Junior Frontend Developer from Saint Petersburg
+### Junior Frontend Developer from Saint Petersburg :cityscape:
 
 ### A few facts about me:
-1. I love to play basketball;
-2. I sing songs with guitar;
-3. I have a cat :cat: ;
+1. I love to play basketball :basketball:
+2. I sing songs with guitar :guitar:
+3. I have a cat :cat:
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
