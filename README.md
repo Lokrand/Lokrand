@@ -1,6 +1,6 @@
 ## Hi there, I'm  Dima :wave:
 
-### Junior Frontend Developer from Saint Petersburg :cityscape:
+### Frontend Developer from Saint Petersburg :cityscape:
 
 ### A few facts about me:
 1. I love to play basketball :basketball:
